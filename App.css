@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.personagens-container {
+  margin-top: 20px;
+}
+
+.personagem {
+  margin: 8px 0;
+}
